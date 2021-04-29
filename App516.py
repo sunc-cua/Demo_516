@@ -15,3 +15,7 @@ st.date_input('Date input')
 st.time_input('Time entry')
 st.file_uploader('File uploader')
 st.color_picker('Pick a color')
+
+st.title('My title')
+st.header('My header')
+st.subheader('My sub')
